@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Giovan/Documents/Unreal Projects/CoursAnim/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Giovan/Documents/Unreal Projects/CoursAnim/Content/BP/BP_Interactible.uasset",
+				"C:/Users/Giovan/Documents/Unreal Projects/CoursAnim/Content/BP/BP_Interact.uasset",
+				"C:/Users/Giovan/Documents/Unreal Projects/CoursAnim/Content/Maps/MainMap.umap",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Users/Giovan/Documents/Unreal Projects/CoursAnim/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"C:/Users/Giovan/Documents/Unreal Projects/CoursAnim/Content/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
